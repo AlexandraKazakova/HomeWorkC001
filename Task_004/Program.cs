@@ -7,10 +7,6 @@ while(num <= N)
 	if(num % 2 == 0)
 	{
 		Console.Write(num + " ");
-		num++;
 	}
-	else
-	{
-		num++;
-	}
+	num++;
 }
