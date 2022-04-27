@@ -9,7 +9,7 @@ if(A >= B & A >= C)
 {
 	Console.WriteLine("Максимальное из этих чисел ->" + A);
 }
-else if(B >= A & B >= C)
+else if(B >= A && B >= C)
 {
 	Console.WriteLine("Максимальное из этих чисел ->" + B);
 }
